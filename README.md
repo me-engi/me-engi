@@ -1,6 +1,6 @@
 ### Hi there 👋 I AM TAPAN SARKER
 
-I am a learning Software Engineer specialization in AI &ML, currently studying in Dy patil international university pine.
+I am a learning Software Engineer specialization in AI &ML, currently studying in Dy patil international university pune.
 I am always fascianted by problem solving. I believe that any problem in life is solvable with proper guidance and right tools.
 
 I’m interested in AIML and full stack development.I'm currently working on full stack projects with ReactJS,flutter,python,django.
