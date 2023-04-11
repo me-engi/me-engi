@@ -11,6 +11,8 @@ Linkedin https://www.linkedin.com/in/tapan-sarker-016636157/ Gmail-:tapansarker9
 ###Technical Skills
 C/C++
 
+JAVA
+
 PYTHON
 
 FLUTTER
