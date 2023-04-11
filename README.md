@@ -8,7 +8,8 @@ I feel like learning is a never ending process.
 Currently learning Mongo, React, Node. I’m looking to collaborate on full stack projects.  How to reach me 
 Linkedin https://www.linkedin.com/in/tapan-sarker-016636157/ Gmail-:tapansarker903@gmail.com
 
-###Technical Skills
+###Technical Skills 
+
 C/C++
 
 JAVA
